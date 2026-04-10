@@ -156,3 +156,11 @@ hs_err_pid*
 replay_pid*
 
 # End of https://www.toptal.com/developers/gitignore/api/intellij,java,git
+
+# Custom Rules
+target/
+club_management.db
+*.db
+run-output.txt
+sources.txt
+.idea/
